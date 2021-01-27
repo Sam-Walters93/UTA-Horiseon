@@ -1,3 +1,5 @@
+/* HORISEON STYLESHEET */
+
 
 /* UNIVERSALS */
 
@@ -62,11 +64,7 @@ header {
     background-position: center;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+
 
 
 /* ASIDE SECTION */
@@ -99,6 +97,12 @@ header {
 }
 
 /* CONTENT SECTION */
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 
 .content-section {
     margin-bottom: 20px;
