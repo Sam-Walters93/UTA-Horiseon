@@ -68,6 +68,10 @@ header {
     background-position: center;
 }
 
+#hero-img {
+    size: 100%;
+}
+
 
 /* ASIDE */
 
